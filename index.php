@@ -6,7 +6,7 @@ $query =  $_GET['query'];
 
 if($_GET["num"] != 1){
 
-    echo "CTF resolved";
+    echo "Lab resolved";
 
 }else{
 
